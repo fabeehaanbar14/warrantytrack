@@ -94,3 +94,8 @@ warrantytrack/
 This was a course project, so some things are simplified on purpose. Customers log in with email and phone number only (no password), and there is no email verification. A production system would need stronger customer authentication.
 
 
+## Demonstration 
+https://youtu.be/smVFnaR8JqI
+
+
+
