@@ -93,6 +93,4 @@ warrantytrack/
 
 This was a course project, so some things are simplified on purpose. Customers log in with email and phone number only (no password), and there is no email verification. A production system would need stronger customer authentication.
 
-## Screenshots
 
-_Add 2 to 3 screenshots here (customer dashboard, claim page, admin claims page)._
